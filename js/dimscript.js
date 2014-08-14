@@ -2,7 +2,7 @@ $(document).ready(function(e) {
 	
 	// autocomplete js
 	
-	var autocomplete=["apple","banana","music","phone","video","fire","computer","internet","search","strawberry","watermelon","ants","house"];
+	var autocomplete=["apple","banana","music","phone","video","fire","computer","internet","search","strawberry","watermelon","ants","house","stratos vetsos"];
 	$("#searchbar").autocomplete({
 		source:autocomplete
 	})
